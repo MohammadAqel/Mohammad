@@ -8,9 +8,9 @@
 
 There are 3 things that make me love life
 
-1.Reading and writing poetry and novels
-2.Singing, composing and playing the piano
-3.Driving racing cars
+1. Reading and writing poetry and novels
+2. Singing, composing and playing the piano
+3. Driving racing cars
 
 ![Githup](https://miro.medium.com/max/781/1*ninBE6iYHSbeHy5y3MxiOg.png)
 
